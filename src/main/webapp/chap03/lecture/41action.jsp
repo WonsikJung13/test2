@@ -39,6 +39,6 @@
 	 다음 : <input type="text" name="query" value="bts">
 	 <input type="submit" value ="검색">
 	 </form>
-	 
+	 // 변경 
 </body>
 </html>
